@@ -1,4 +1,4 @@
-# The Art of Prompt Engineering
+# Natural Language Processing with Hugging Face Transformers
 ## Author: Cognitive Class AI
 
 Mentee assignment from IBM Advance AI @ Infinite Learning
